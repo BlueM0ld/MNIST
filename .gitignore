@@ -1,0 +1,15 @@
+__pycache__/
+
+env/
+
+# data files after download for mnist
+data/
+
+# Model files
+*.pth
+
+# WandB
+wandb/
+
+# IDE
+.vscode/
